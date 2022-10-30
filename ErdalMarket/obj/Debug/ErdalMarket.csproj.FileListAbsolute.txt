@@ -1,0 +1,8 @@
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\bin\Debug\ErdalMarket.exe.config
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\bin\Debug\ErdalMarket.exe
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\bin\Debug\ErdalMarket.pdb
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\obj\Debug\ErdalMarket.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\obj\Debug\ErdalMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\obj\Debug\ErdalMarket.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\obj\Debug\ErdalMarket.exe
+C:\Users\303\source\repos\ErdalMarket\ErdalMarket\obj\Debug\ErdalMarket.pdb
